@@ -28,6 +28,15 @@ User: `<md5>`
 
 Root: `<md5>`
 
+
+# Information Gathering
+
+## Nmap | script nmapAutomator
+We begin our reconnaissance by running an Nmap scan checking default scripts and testing for vulnerabilities.
+
+```console
+
+
 # Enumeration
 
 
@@ -41,4 +50,15 @@ Root: `<md5>`
 
 
 # Privilege Escalation
+
+
+# Conclusion
+
+
+#Commands
+
+
+# References 
+
+
 
