@@ -35,7 +35,8 @@ Root: `<md5>`
 We begin our reconnaissance by running an Nmap scan checking default scripts and testing for vulnerabilities.
 
 ```console
-
+OUTPUT
+```
 
 # Enumeration
 
