@@ -1,3 +1,3 @@
-# Hack The Box Writeup Templates
+# Hack The Box Writeup Template
 
-Skeleton writeups for community challenge and machine submissions 💚
+HTB Template for writeup
